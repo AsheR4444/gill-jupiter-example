@@ -1,7 +1,7 @@
-# Пример свапа на Jupiter через gill и axios
+# Пример свапа на Jupiter с помощью gill
 
 <div align="center">
-  <img src="image.png" alt="Sahara AI">  
+  <img src="image.png">  
 </div>
 
 <div align="center">
